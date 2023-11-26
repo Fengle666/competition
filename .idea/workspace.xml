@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="afe3242a-87f5-47e5-8b6e-d8b6c5a3c311" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/web/src/assets/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/components/TheAside/TheAside.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/components/TheAside/TheAside.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/components/TheFooter/TheFooter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/components/TheFooter/TheFooter.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/components/TheHeader/TheHeader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/components/TheHeader/TheHeader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/event.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/utils/request.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/utils/session-storage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/utils/tool.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/AnnounceManage/AnnounceList/AnnounceList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/AnnounceManage/AnnounceList/AnnounceList.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/CommentManage/CommentList/CommentList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/CommentManage/CommentList/CommentList.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/ContestManage/ContestList/ContestList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/ContestManage/ContestList/ContestList.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/Home/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/Home/Home.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/Login/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/Login/Login.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/Main/Main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/Main/Main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/NotFound/NotFound.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/NotFound/NotFound.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/ResultManage/ResultList/ResultList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/ResultManage/ResultList/ResultList.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/SignManage/SignList/SignList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/SignManage/SignList/SignList.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/UserManage/AdminList/AdminList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/UserManage/AdminList/AdminList.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/UserManage/StudentList/StudentList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/UserManage/StudentList/StudentList.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/UserManage/TeacherList/TeacherList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/UserManage/TeacherList/TeacherList.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/WorkManage/WorkList/WorkList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/WorkManage/WorkList/WorkList.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/web" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true -Dmaven.wagon.http.ssl.ignore.validity.dates=true" />
+  </component>
+  <component name="ProjectId" id="2OcholmKGKQ2r2aXO7cSYiKxGeB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yjq.programmer.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea_project\SubjectContestSystem\web\src\views\AnnounceManage\AnnounceList" />
+      <recent name="D:\idea_project\SubjectContestSystem\web\src\views\CommentManage\CommentList" />
+      <recent name="D:\idea_project\SubjectContestSystem\web\src\views\ResultManage\ResultList" />
+      <recent name="D:\idea_project\SubjectContestSystem\web\src\views\WorkManage\WorkList" />
+      <recent name="D:\idea_project\SubjectContestSystem\web\src\views\SignManage\SignList" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SubjectContestSystemApplication">
+    <configuration name="generator" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+                <option value="-e" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/server" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="SubjectContestSystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yjq.programmer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yjq.programmer.SubjectContestSystemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="web" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/web/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Maven.generator" />
+      <item itemvalue="npm.web" />
+      <item itemvalue="Spring Boot.SubjectContestSystemApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SubjectContestSystemApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="afe3242a-87f5-47e5-8b6e-d8b6c5a3c311" name="Default Changelist" comment="" />
+      <created>1681867008494</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681867008494</updated>
+      <workItem from="1681867010476" duration="5872000" />
+      <workItem from="1682054033373" duration="10379000" />
+      <workItem from="1682068243738" duration="4161000" />
+      <workItem from="1682079983937" duration="36243000" />
+      <workItem from="1682170544518" duration="25000" />
+      <workItem from="1682170738142" duration="4000" />
+      <workItem from="1682170960883" duration="5000" />
+      <workItem from="1682314442314" duration="2545000" />
+      <workItem from="1682325242257" duration="874000" />
+      <workItem from="1682486150109" duration="9235000" />
+      <workItem from="1682500256549" duration="11000" />
+      <workItem from="1682556944443" duration="18340000" />
+      <workItem from="1682641951236" duration="1059000" />
+      <workItem from="1682665610505" duration="2664000" />
+      <workItem from="1684375113024" duration="126000" />
+      <workItem from="1684893202054" duration="3433000" />
+      <workItem from="1684923195396" duration="650000" />
+      <workItem from="1685060525097" duration="830000" />
+      <workItem from="1685068701766" duration="11000" />
+      <workItem from="1685075717512" duration="986000" />
+      <workItem from="1688638005831" duration="59000" />
+      <workItem from="1688777173806" duration="8078000" />
+      <workItem from="1688860813823" duration="1931000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="176" y="88" width="1142" height="682" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1682080139138">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="176" y="88" width="1142" height="682" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1682080139138" />
+    <state x="445" y="239" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1682574220483">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="445" y="239" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860@0.0.1440.860" timestamp="1682574220483" />
+    <state x="526" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1688862623380">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="526" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1440.860@0.0.1440.860" timestamp="1688862623380" />
+    <state x="406" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1681867934455">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="406" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.860@0.0.1440.860" timestamp="1681867934455" />
+    <state x="451" y="180" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1681869044312">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="451" y="180" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.860@0.0.1440.860" timestamp="1681869044312" />
+    <state x="530" y="189" key="FileChooserDialogImpl" timestamp="1688806515859">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="530" y="189" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1688806515859" />
+    <state width="1398" height="246" key="GridCell.Tab.0.bottom" timestamp="1688863107024">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="246" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1688863107024" />
+    <state width="1398" height="246" key="GridCell.Tab.0.center" timestamp="1688863107024">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="246" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1688863107024" />
+    <state width="1398" height="246" key="GridCell.Tab.0.left" timestamp="1688863107024">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="246" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1688863107024" />
+    <state width="1398" height="246" key="GridCell.Tab.0.right" timestamp="1688863107024">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="246" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1688863107024" />
+    <state width="1398" height="246" key="GridCell.Tab.1.bottom" timestamp="1688863107017">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="246" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1688863107017" />
+    <state width="1398" height="246" key="GridCell.Tab.1.center" timestamp="1688863107017">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="246" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1688863107017" />
+    <state width="1398" height="246" key="GridCell.Tab.1.left" timestamp="1688863107017">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="246" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1688863107017" />
+    <state width="1398" height="246" key="GridCell.Tab.1.right" timestamp="1688863107017">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="246" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1688863107017" />
+    <state width="1398" height="130" key="GridCell.Tab.2.bottom" timestamp="1688860110659">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="130" key="GridCell.Tab.2.bottom/0.0.1440.860@0.0.1440.860" timestamp="1688860110659" />
+    <state width="1398" height="130" key="GridCell.Tab.2.center" timestamp="1688860110659">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="130" key="GridCell.Tab.2.center/0.0.1440.860@0.0.1440.860" timestamp="1688860110659" />
+    <state width="1398" height="130" key="GridCell.Tab.2.left" timestamp="1688860110659">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="130" key="GridCell.Tab.2.left/0.0.1440.860@0.0.1440.860" timestamp="1688860110659" />
+    <state width="1398" height="130" key="GridCell.Tab.2.right" timestamp="1688860110659">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="130" key="GridCell.Tab.2.right/0.0.1440.860@0.0.1440.860" timestamp="1688860110659" />
+    <state x="224" y="17" key="SettingsEditor" timestamp="1685076104901">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="224" y="17" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1685076104901" />
+    <state x="409" y="184" width="620" height="490" key="find.popup" timestamp="1688862705839">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="409" y="184" width="620" height="490" key="find.popup/0.0.1440.860@0.0.1440.860" timestamp="1688862705839" />
+    <state x="86" y="134" key="new project wizard" timestamp="1681867670512">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="86" y="134" key="new project wizard/0.0.1440.860@0.0.1440.860" timestamp="1681867670512" />
+    <state x="380" y="198" key="run.anything.popup" timestamp="1682557183896">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="380" y="198" key="run.anything.popup/0.0.1440.860@0.0.1440.860" timestamp="1682557183896" />
+    <state x="385" y="183" width="672" height="678" key="search.everywhere.popup" timestamp="1682575914512">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="385" y="183" width="672" height="678" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1682575914512" />
+  </component>
+</project>
